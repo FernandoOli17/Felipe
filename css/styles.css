@@ -301,11 +301,9 @@ ul {
 }
 
 .header__logo .logo-img {
-    height: 50px;
+    height: 40px;
     width: auto;
-    object-fit: cover;
-    object-position: center;
-    transform: scale(1.2);
+    object-fit: contain;
 }
 
 .header__logo a:hover {
